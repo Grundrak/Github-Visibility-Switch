@@ -18,8 +18,8 @@ A Python utility for managing GitHub repositories, including features to change 
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
-cd github-repo-manager
+git clone https://github.com/Grundrak/Github-Visibility-Switch.git
+cd Github-Visibility-Switch
 ```
 
 2. Create a virtual environment:
